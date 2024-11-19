@@ -25,7 +25,6 @@ socket.connect("tcp://localhost:5555")
 
 socket.send_string("gone in 60 seconds")
 ```
-Your terminal window should display https://m.media-amazon.com/images/M/MV5BMTIwMzExNDEwN15BMl5BanBnXkFtZTYwODMxMzg2._V1_SX300.jpg.
 
 ### Receiving Data
 Receiving the bytestring from **OMDb Poster Fetcher** is as simple as adding a single command. This should be entered after the above request is made:
